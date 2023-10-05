@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "d:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "d:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "d:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "d:\\Education_C#\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "D:\\Education_C#\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "d:\\Education_C#\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config"
